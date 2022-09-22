@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevanshuTiwari
 - 👀 I’m interested in web development and problem solving.
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning backend development
 - 📫 gmail id- devanshu1336@gmail.com
 
 <!---
